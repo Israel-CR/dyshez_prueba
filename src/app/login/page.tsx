@@ -3,7 +3,7 @@ import { CiLock } from "react-icons/ci";
 import { FaArrowRight } from "react-icons/fa";
 import { FiClock, FiLock } from "react-icons/fi";
 
-export default function Blog() {
+export default function Login() {
   return (
     <div className="min-h-screen w-screen  bg-white text-black p-10 px-20 flex">
       <div className="w-1/3">
